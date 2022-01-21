@@ -2,7 +2,6 @@
  
 Desenvolvido em:
 - API Rest em lumen-framework 8.3.1
-- O frontend em Vue JS
 
 Projeto carregado em localhost:8080
 
